@@ -24,7 +24,7 @@ _Paskutinis savarankiškas darbas_
 - Form validations with clear misrepresentations of messages
 - First users (admin and user)
 - Server and Client
-- Braches
+- Branches
 - 50+ commits
 
 
@@ -64,7 +64,7 @@ _No data yet_
 
 ## 🎅 Authors
 
-Giedre: [Github](https://github.com/TadasRup)
+[Github](https://github.com/TadasRup)
 
 ## ⚠️ License
 
